@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+git config --global user.name "Mona Lisa"
 int main() {
 	//Only the top 10 scores are kept for the leader board
 	int top_scores[10] = {11118, 10579, 10178, 9026, 8254, 7947, 7503, 7478, 7021, 6873};
